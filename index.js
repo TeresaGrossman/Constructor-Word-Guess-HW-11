@@ -11,43 +11,17 @@ var wordBank = ["yankees", "orioles", "astros", "royals", "angels", "mariners", 
 // a.appear = true;
 // console.log(a.displayLetter());
 
-
-
 // var apple = new Word("apple");
-
 // // console.log(apple);
-
 // apple.createLetters();
-
 // apple.displayWord();
-
 // apple.checkUserGuess("p");
-
 // console.log("Did we win? " + apple.checkWin())
-
 // // console.log(apple.remainingGuesses);
 
-// apple.checkUserGuess("e");
-// console.log("Did we win? " + apple.checkWin())
-// apple.checkUserGuess("f");
-// console.log("Did we win? " + apple.checkWin())
-// apple.checkUserGuess("a");
-// console.log("Did we win? " + apple.checkWin())
-// // apple.checkUserGuess("l");
-// // console.log("Did we win? " + apple.checkWin())
-
-// apple.checkUserGuess("z");
-// console.log("Did we lose? " + apple.checkLoss());
-// apple.checkUserGuess("z");
-// console.log("Did we lose? " + apple.checkLoss());
-// apple.checkUserGuess("z");
-// console.log("Did we lose? " + apple.checkLoss());
 // apple.checkUserGuess("z");
 // console.log("Did we lose? " + apple.checkLoss());
 // console.log(apple.remainingGuesses);
-
-
-
 // console.log(apple.letterArray);
 
 function playGame(randomWord, wins, losses){
