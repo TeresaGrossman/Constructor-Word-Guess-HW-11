@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess-hw-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeresaGrossman/Constructor-Word-Guess-HW-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeresaGrossman/Constructor-Word-Guess-HW-11/issues"
+  },
+  "homepage": "https://github.com/TeresaGrossman/Constructor-Word-Guess-HW-11#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
